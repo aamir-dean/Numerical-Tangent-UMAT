@@ -6,4 +6,4 @@ The document begins with an introduction that outlines the importance of the mat
 
 Subsequently, the methodology section delves into the process of computing the numerical tangent using finite difference methods, with a particular emphasis on the forward difference first-order scheme. It explains the step-by-step procedure for perturbing the strain components and computing the corresponding stress responses to approximate the Jacobian material tangent.
 
-Furthermore, the document presents a Fortran code snippet for the $\textsc{UMAT}$ subroutine, tailored to implement the numerical tangent computation. The code demonstrates the practical implementation details, including perturbing the strain components, computing stresses, and approximating the material tangent using finite differences.
+Furthermore, the document presents a Fortran code snippet for the UMAT subroutine, tailored to implement the numerical tangent computation. The code demonstrates the practical implementation details, including perturbing the strain components, computing stresses, and approximating the material tangent using finite differences.
